@@ -1,0 +1,39 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+}
+.salHeading {
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-top: 30px;
+}
+.salRangeContainer {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+.salContainer {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox-list {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  padding-bottom: 20px;
+}
+.label {
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 14px;
+  padding-top: 9px;
+}
+.hr {
+  width: 100%;
+  border: 1px solid #7e858e;
+}
